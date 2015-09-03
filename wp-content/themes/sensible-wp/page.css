@@ -1,0 +1,21 @@
+.entry-footer
+{
+    display: none; 
+}
+
+.page-title
+{
+    width: 100%;
+    text-align: center;
+}
+
+.page-sub-title
+{
+    width: 100%;
+    text-align: center;
+}
+
+.entry-title
+{   
+    display: none;
+}

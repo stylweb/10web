@@ -1,0 +1,157 @@
+#masthead
+{
+    display: none!important;
+}
+p
+{
+    font-size: 16px;
+}
+h1
+{
+    width: 102%!important;
+    letter-spacing: 15px!important;
+}
+.entry-header
+{
+    display: none;
+}
+.comments-title
+{
+    text-align: center;
+}
+.featured-img-header
+{
+    display: none;
+}
+#primary
+{
+    width: 100%;
+    margin-top: 60px;
+}
+#respond
+{
+    width: 40%;
+    margin: 0 auto;
+}
+.post-navigation
+{
+    display: none;
+}
+#single-header
+{
+      width: 100%;
+  text-align: center;
+  margin: 0;
+  background-color: black;
+  margin-bottom: 40px;
+  position: fixed;
+  top: 0px;
+}
+#single-header li
+{
+      display: inline-block;
+  padding: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+}
+.entry-content p
+{
+    margin: 0!important;
+    color: black;
+}
+.footer-contact
+{
+    display: none;
+}
+.entry-title
+{
+    letter-spacing: 15px;
+}
+#single-header.hidden
+{
+    opacity: 0.5;
+}
+#single-banner
+{
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+#single-map
+{
+    width: 100%;
+    height: 250px;
+}
+#single-map p
+{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#single-about
+{
+    width: 100%;
+    height: auto;
+    background-color: #f4f4f4;
+    min-height: 150px;
+    padding-top: 40px;
+    
+}
+
+#single-header
+{
+      width: 100%;
+  text-align: center;
+  background-color: black;
+  margin-bottom: 40px;
+  position: fixed;
+  top: 0px;
+}
+#single-header li
+{
+      display: inline-block;
+  padding: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+}
+#single-header.hidden
+{
+    opacity: 0.5;
+}
+.entry-footer
+{
+    display: none;
+}
+#single-contact-content
+{
+    background-color: #f7f7f7;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#single-about-content
+{
+    background-color: #fffdef;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+/* MKT */
+
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    float: none;
+}
+img
+{
+    margin: 0 auto;
+    
+}
